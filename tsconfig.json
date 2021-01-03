@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "commonjs",
+    "target": "es6",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "types": [
+      "node",
+      "@types/mocha",
+      "@types/chai",
+      "chai",
+      "@wdio/sync",
+      "@types/faker"
+    ]
+  },
+  "include": [
+    "./**/*.ts"
+  ],
+  "exclude": ["node_modules"]
+}

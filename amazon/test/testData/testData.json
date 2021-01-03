@@ -1,0 +1,14 @@
+{
+  "C3": {
+    "searchQuery": "Samsung",
+    "filters": {
+      "Cell Phone Operating System": "Android",
+      "Cell Phone Camera Resolution": "13 to 19.9 MP",
+      "Cell Phone Features": [
+        "Dual Camera",
+        "Bluetooth Enabled"
+      ],
+      "Cell Phone Internal Storage Memory": "16 GB"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "users": {
+    "test": {
+      "name": "amazontestuserwdio",
+      "email": "amazontestuserwdio@gmail.com",
+      "password": "6iq/v@T228ZX"
+    },
+    "gmailUser": {
+      "email": "amazontestuserwdio@gmail.com",
+      "password": "6iq/v@T228ZX"
+    }
+  }
+}
